@@ -1,2 +1,2 @@
 # LCSS
-Longest common subsequences
+Longest common subsequences for trajectories
